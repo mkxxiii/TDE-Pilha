@@ -1,6 +1,6 @@
 # TDE-Pilha
 
-https://github.com/mkxxiii/6pe-pilha.git
+https://github.com/mkxxiii/TDE-Pilha.git
 
 TDE CÓDIGOS DE ALTA PERFORMANCE<br>
 
