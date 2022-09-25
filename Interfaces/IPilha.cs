@@ -18,6 +18,8 @@ namespace EstruturaPilha.Interfaces
 
         public bool EstaVazia();
 
+        public bool EstaCheia();
+
         public IEnumerable<T> Esvaziar();
     }
 }
